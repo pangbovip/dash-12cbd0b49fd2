@@ -1,31 +1,31 @@
 {
- "generated_at": "2026-11-02 08:40",
+ "generated_at": "2026-11-03 08:39",
  "tz": "北京时间",
  "kpi": {
-  "total": 21898158.367416643,
-  "cost": 25460672.0,
-  "pl": -3562513.6325833574,
-  "pl_pct": -13.992221543026663,
+  "total": 21954934.941399366,
+  "cost": 25509429.0,
+  "pl": -3554494.0586006343,
+  "pl_pct": -13.934040070440753,
   "day_change": {
-   "vs": "2026-10-30",
-   "abs": 160690.3122755997,
-   "pct": 0.7392319651395437
+   "vs": "2026-11-02",
+   "abs": 56776.57398272306,
+   "pct": 0.2592755656895958
   }
  },
  "assets": [
   {
    "id": "gold",
-   "name": "金条 1000g",
-   "sub": "菜百投资金条 999.9‰ · 14 笔",
+   "name": "金条 1050g",
+   "sub": "菜百投资金条 999.9‰ · 15 笔",
    "kind": "gold",
-   "cost": 1018400,
-   "value": 854760.0,
-   "low": 838000.0,
-   "high": 854760.0,
+   "cost": 1060965.0,
+   "value": 890400.0,
+   "low": 886410.0,
+   "high": 890400.0,
    "estimated": false,
-   "basis": "上金所 Au99.99 2026-10-30 收盘 × 1000g；区间下沿/上沿取菜百回购价 838.0（2026-11-02）",
-   "pl": -163640.0,
-   "pl_pct": -16.068342498036134
+   "basis": "菜百基础金价 848.0 元/克（2026-11-03）× 1050.0g；区间下沿取菜百回购价 844.2（基础金价 − 3.8）；市场参考 上金所 Au99.99 2026-11-03 08:39（延时） 849.0",
+   "pl": -170565.0,
+   "pl_pct": -16.076402143331777
   },
   {
    "id": "mtfy",
@@ -48,24 +48,24 @@
    "sub": "北京·石景山 · 134.56㎡",
    "kind": "cn_property",
    "cost": 5000000,
-   "value": 6847581.15003264,
-   "low": 6515473.4642560575,
-   "high": 7179688.835809223,
+   "value": 6864033.705291362,
+   "low": 6531128.07058473,
+   "high": 7196939.339997993,
    "estimated": true,
-   "psm": 50888.682744000005,
+   "psm": 51010.95203100001,
    "basis": "58同城小区月度均价 × 1.0173（参考 cityhouse 三季度 53,900、安居客 50,125，校准为 51,500 元/㎡）± 4.9%",
-   "pl": 1847581.1500326404,
-   "pl_pct": 36.95162300065281
+   "pl": 1864033.7052913615,
+   "pl_pct": 37.28067410582723
   },
   {
    "id": "london",
    "name": "One Park Drive 2509",
    "sub": "伦敦·Canary Wharf · 44㎡ 开间（studio）",
    "kind": "uk_property",
-   "cost": 6442272.0,
-   "value": 4873340.2249839995,
-   "low": 4466522.258376639,
-   "high": 5369149.621786719,
+   "cost": 6448464.000000001,
+   "value": 4878024.2437080005,
+   "low": 4470815.26336368,
+   "high": 5374310.1885026395,
    "estimated": true,
    "gbp": {
     "cost": 720000,
@@ -73,21 +73,21 @@
     "low": 499186.62639999995,
     "high": 600065.8971999999
    },
-   "basis": "EPC 面积 44㎡（474 sq ft）× 同楼 2025–26 年二手成交 £1,054–1,267/sqft（中值取 £1,150）；人民币按 2026-10-30 中间价 8.9476 折算（成本也按当日汇率折算，不含汇兑损益）",
-   "pl": -1568931.7750160005,
-   "pl_pct": -24.353702777777787
+   "basis": "EPC 面积 44㎡（474 sq ft）× 同楼 2025–26 年二手成交 £1,054–1,267/sqft（中值取 £1,150）；人民币按 2026-11-02 中间价 8.9562 折算（成本也按当日汇率折算，不含汇兑损益）",
+   "pl": -1570439.7562920004,
+   "pl_pct": -24.35370277777778
   }
  ],
  "gold": {
-  "price": 854.76,
-  "price_label": "上金所 Au99.99 2026-10-30 收盘",
+  "price": 849.0,
+  "price_label": "上金所 Au99.99 2026-11-03 08:39（延时）",
   "live": {
-   "date": "2026-10-30",
-   "last": 860.1,
-   "high": 867.0,
-   "low": 860.1,
-   "open": 863.8,
-   "fetched_at": "2026-10-30 08:43"
+   "date": "2026-11-03",
+   "last": 849.0,
+   "high": 849.0,
+   "low": 834.0,
+   "open": 836.0,
+   "fetched_at": "2026-11-03 08:39"
   },
   "history": [
    {
@@ -1475,13 +1475,20 @@
     "c": 854.76,
     "l": 853.5,
     "h": 867.0
+   },
+   {
+    "d": "2026-11-02",
+    "o": 851.0,
+    "c": 836.08,
+    "l": 833.0,
+    "h": 855.0
    }
   ],
   "caibai": {
-   "base": 840.0,
-   "buyback": 838.0,
-   "bar_retail": 855.0,
-   "date": "2026-11-02",
+   "base": 848.0,
+   "buyback": 844.2,
+   "bar_retail": 863.0,
+   "date": "2026-11-03",
    "source": "http://www.huangjinjiage.cn/talk/20211114/12426.html",
    "note": "第三方汇总，非菜百官方；本机 curl 被拦，需要 WebFetch 手动更新"
   },
@@ -1597,10 +1604,18 @@
     "g": 50.0,
     "paid": 42750,
     "per_g": 855.0
+   },
+   {
+    "dt": "2026-11-02 10:18:00",
+    "store": "菜百（用户口头补录）",
+    "product": "金条 50克-投资类",
+    "g": 50.0,
+    "paid": 42565,
+    "per_g": 851.3
    }
   ],
-  "grams": 1000,
-  "avg_cost": 1018.4
+  "grams": 1050.0,
+  "avg_cost": 1010.4428571428572
  },
  "properties": [
   {
@@ -1942,13 +1957,13 @@
     },
     {
      "m": "2026-11",
-     "v": 50023.28
+     "v": 50143.47
     }
    ],
    "summary": {
-    "latest": 50023.28,
-    "mom_pct": 0.24,
-    "yoy_pct": -15.64
+    "latest": 50143.47,
+    "mom_pct": 0.48,
+    "yoy_pct": -15.44
    },
    "deals": [],
    "refs": [
@@ -1965,7 +1980,7 @@
      "url": "http://bj.cityhouse.com.cn/marketha/pa0164196sj954/"
     }
    ],
-   "psm_est": 50888.682744000005
+   "psm_est": 51010.95203100001
   }
  ],
  "london": {
@@ -2440,39 +2455,59 @@
   ]
  },
  "fx": {
-  "gbp_cny": 8.9476,
-  "usd_cny": 6.7138,
-  "date": "2026-10-30",
+  "gbp_cny": 8.9562,
+  "usd_cny": 6.7146,
+  "date": "2026-11-02",
   "kind": "人民银行中间价",
-  "url": "https://www.365area.com/news/pbc_20261030"
+  "url": "https://www.365area.com/news/pbc_20261102"
  },
  "news": {
-  "as_of": "2026-11-02 08:40",
-  "window_note": "周一覆盖近 72 小时（约 10/30 早–11/2 早）。一级市场：半导体微芸半导体 C 轮（等离子刻蚀设备）、登临科技港股招股获基石认购约 6.464 亿港元；AI DeepSeek 第二轮媒体披露约 1055 亿元、可灵增资交割约 198.02 亿元、零一万物获杭州国资数亿元、OpenAI 融资目标下调至约 200 亿美元；机器人天嗅智能天使+（机器嗅觉）、四川具身科技超 1 亿元 Pre-A、法国 Bleu Robotics 500 万欧元 Pre-seed；新材料思锐增材千万级 Pre-A（3D 打印金属粉）、日本 AirMembrane（石墨烯 EUV 保护膜）；新能源四川全固态数千万元 A 轮（硫化锂）、格睿克斯数千万元天使轮（SOEC/SOFC）。窗口内机器人/新材料披露偏少，均经投资界/21 世纪经济报道/港交所公告等核实，未编造金额。",
+  "as_of": "2026-11-03 08:50",
+  "window_note": "近 24 小时（约 11/2 早–11/3 早）。一级市场亮点：芯联动力近 20 亿元 C 轮（碳化硅，估值 20 亿美元）、简智机器人 1 亿美元 A+、RoboScience 数亿元 A2、达瓦科技累计近 5 亿元、暖芯迦 5 亿元 C+、国科炭美数亿元 Pre-A；全球并购：Marvell 全股票收购 Lumentum（约 1,150 亿美元）、onsemi 6 亿美元收购 Ferric。均经投资界/第一财经/公司公告等核实。",
   "sectors": [
    {
     "key": "semi",
     "name": "半导体",
     "items": [
      {
-      "date": "2026-10-30",
-      "company": "微芸半导体",
+      "date": "2026-11-02",
+      "company": "芯联动力",
       "round": "C 轮",
-      "amount": "未披露",
-      "investors": "芯禾资本、合肥产投集团、海恒资本",
-      "summary": "合肥，半导体等离子刻蚀设备（CCP/ICP），面向化合物半导体、MEMS、功率器件；资金加码设备研发与国产化生产。",
+      "amount": "近 20 亿元（投后估值约 20 亿美元）",
+      "investors": "中国移动链长基金领投；浪潮信息、元璟资本、中石化氢能基金、北方华创诺华资本、江丰电子、中信金石等",
+      "summary": "绍兴，车规级碳化硅制造封装；加码 SiC/GaN 制造与封装。",
       "source": "投资界",
-      "url": "https://vc.pedaily.cn/company/659006.html"
+      "url": "https://vc.pedaily.cn/invest/f2747"
      },
      {
-      "date": "2026-10-30",
-      "company": "登临科技",
-      "round": "港股招股/基石认购",
-      "amount": "基石认购约 6.464 亿港元",
-      "investors": "华圆、钜天投资（通富微电间接全资）、中方财团、ZGD Capital、光大理财",
-      "summary": "国产 GPGPU，10/30–11/5 招股，拟发售约 612.5 万股 H 股，预计 11/10 挂牌；基石按发售价中位数约占全球发售约 40.66%。",
-      "source": "新浪财经/公司公告",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkzmt/2026-10-30/doc-iniwyfwf4761840.shtml"
+      "date": "2026-11-02",
+      "company": "奕泰智能",
+      "round": "A 轮（A3 期）",
+      "amount": "A 轮累计超 2 亿元",
+      "investors": "锡创投领投；金投致源、洪山资本跟投",
+      "summary": "无锡，端侧/车载以太网交换芯片，出货量称居国内首位；资金用于量产交付。",
+      "source": "投资界",
+      "url": "https://www.pedaily.cn/first/"
+     },
+     {
+      "date": "2026-11-02",
+      "company": "Marvell 收购 Lumentum（全球）",
+      "round": "并购（全股票）",
+      "amount": "Lumentum 隐含企业价值约 1,150 亿美元",
+      "investors": "Marvell",
+      "summary": "合并电互联与光模块/激光能力，面向 AI 数据中心连接；预计 2028 年上半年交割。",
+      "source": "Marvell 公告",
+      "url": "https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity"
+     },
+     {
+      "date": "2026-11-02",
+      "company": "onsemi 收购 Ferric（全球）",
+      "round": "并购",
+      "amount": "6 亿美元现金 + 最多 1.75 亿美元或有对价",
+      "investors": "onsemi",
+      "summary": "集成稳压器（IVR）初创，面向 AI 处理器供电；onsemi 将 2030 年 AI 数据中心收入目标上调至超 30 亿美元。",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/11/02/3393726/0/en/onsemi-to-acquire-ferric-establishing-leadership-in-power-delivery-for-next-generation-ai-processors.html"
      }
     ]
    },
@@ -2481,44 +2516,44 @@
     "name": "AI",
     "items": [
      {
-      "date": "2026-10-30",
-      "company": "DeepSeek",
-      "round": "第二轮融资",
-      "amount": "约 1055 亿元（媒体披露）",
-      "investors": "腾讯、宁德时代等近 30 家；含长鑫存储、中芯国际、vivo、美团、吉利、立讯、运营商与险资等",
-      "summary": "投后估值约 6155 亿元；国资出资约占本轮 27%；叠加首轮约 500 亿，半年累计超 1500 亿元。",
-      "source": "21世纪经济报道",
-      "url": "https://www.21jingji.com/article/20261030/herald/f1f3146963f1de19418d797341443e46.html"
+      "date": "2026-11-02",
+      "company": "达瓦科技",
+      "round": "Pre-A + A 轮",
+      "amount": "累计近 5 亿元",
+      "investors": "启赋资本、投控东海、一村资本、宝捷会、鞍羽资本等",
+      "summary": "重庆，生成式世界基础模型，实时交互模型 Scenes AI 可在单张 RTX 5090 连续实时生成超 120 分钟。",
+      "source": "投资界",
+      "url": "https://www.pedaily.cn/first/"
      },
      {
-      "date": "2026-10-30",
-      "company": "可灵 AI（北京可灵）",
-      "round": "增资交割",
-      "amount": "约 198.02 亿元",
-      "investors": "快手 Lucky Labs 控股；阿里、腾讯、百度等；金蝶、沐曦等承接部分份额",
-      "summary": "视频生成大模型，交割后控股股东持股约 66.68%；部分中东相关主体未按期缴款退出，金蝶/沐曦等受让近 8 亿元份额。",
-      "source": "证券时报/同花顺",
-      "url": "https://stock.10jqka.com.cn/20261101/c681327189.shtml"
+      "date": "2026-11-03",
+      "company": "暖芯迦",
+      "round": "C+ 轮",
+      "amount": "5 亿元（累计约 10 亿元）",
+      "investors": "高榕创投领投；人保股权、砺思资本、建发新兴投资等跟投，君联资本等老股东追投",
+      "summary": "杭州，视觉脑机接口芯片，年内第二轮。",
+      "source": "动脉网",
+      "url": "https://www.vbdata.cn/1519102835"
      },
      {
-      "date": "2026-10-30",
-      "company": "零一万物",
-      "round": "战略投资",
-      "amount": "数亿元",
-      "investors": "杭州市、临平区两级国资联动",
-      "summary": "李开复创立；10/28 与杭州市、临平区签约，总部落地临平并建设产业 AI 转型基地。",
-      "source": "界面新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwynec4737527.shtml"
+      "date": "2026-11-02",
+      "company": "君柔科技",
+      "round": "天使+ 轮",
+      "amount": "近 1 亿元",
+      "investors": "顺为资本领投；高瓴创投、智元机器人、南沙启晟跟投",
+      "summary": "深圳，脑机接口“神经蠕虫”动态电极，资金用于工艺定型和 GMP 产线。",
+      "source": "投资界",
+      "url": "https://www.pedaily.cn/first/"
      },
      {
-      "date": "2026-11-01",
-      "company": "OpenAI（美国）",
-      "round": "新一轮融资（目标调整，尚未交割）",
-      "amount": "目标约 200 亿美元（此前约 300 亿）；拟议估值约 1.25 万亿美元",
-      "investors": "据报含 MGX、软银、红杉、Coatue、Founders Fund、a16z 等（进行中）",
-      "summary": "科技股回调与 Anthropic IPO 分流下，融资目标下调约 100 亿美元；认购仍在推进。",
-      "source": "21世纪经济报道",
-      "url": "https://www.21jingji.com/article/20261101/herald/ba561493dda674dafaa7624c6bca88a5.html"
+      "date": "2026-11-02",
+      "company": "42AI（以色列）",
+      "round": "种子轮",
+      "amount": "6,250 万美元",
+      "investors": "创始人及 Infinity Group（三年内投入）",
+      "summary": "“行为世界模型”结束隐身，先在券商场景预测交易者行为。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
      }
     ]
    },
@@ -2527,34 +2562,34 @@
     "name": "机器人",
     "items": [
      {
-      "date": "2026-10-30",
-      "company": "天嗅智能",
-      "round": "天使+轮",
-      "amount": "未披露（投后估值超 2 亿元）",
-      "investors": "杭州市科创集团领投",
-      "summary": "天津大学机器人研究所出身，机器嗅觉芯片+大模型+气味库；杭州滨江智造基地投产，资金用于芯片迭代、产能与九大行业方案落地。",
-      "source": "投资界",
-      "url": "https://news.pedaily.cn/202610/571137.shtml"
+      "date": "2026-11-02",
+      "company": "简智机器人",
+      "round": "A+ 轮",
+      "amount": "1 亿美元（三季度完成，11/2 披露）",
+      "investors": "上汽集团、百度、首程控股、银河通用等产业方；光合创投、中信金石、中证投、建银国际、华泰紫金等",
+      "summary": "北京，具身数据基础设施（采集设备 + 数据产线），不做整机。",
+      "source": "第一财经",
+      "url": "https://www.yicai.com/news/103420710.html"
      },
      {
       "date": "2026-11-02",
-      "company": "四川具身科技",
-      "round": "Pre-A 轮",
-      "amount": "超 1 亿元",
-      "investors": "未披露（报道称获省市区县国资协同支持）",
-      "summary": "电子科技大学团队，情感交互人形“爱湫”等已批量交付；资金用于产品迭代、万台级产线与全国销售体系。",
-      "source": "AI123/公开报道",
-      "url": "https://cn.ai123.com/news/16960"
+      "company": "RoboScience 机器科学",
+      "round": "A2 轮",
+      "amount": "数亿元",
+      "investors": "琥珀资本、鸿瑞达投资、上海半导体产投联合领投；360 战投、国联通宝、金鼎资本等跟投",
+      "summary": "具身大模型 Visics + 仿真引擎 RoboMirage，推进物流、零售、工业场景落地。",
+      "source": "21 世纪经济报道",
+      "url": "https://www.21jingji.com/article/20261102/herald/0774e2f91d54e3e60f04af84a8e759e3.html"
      },
      {
-      "date": "2026-10-31",
-      "company": "Bleu Robotics（法国）",
-      "round": "Pre-seed 轮",
-      "amount": "500 万欧元",
-      "investors": "Contrarian Ventures、OVNI Capital 领投；Charlie Songhurst 等参投",
-      "summary": "工业人形机器人软件，溯因学习少样本示教；目标将部署压缩至约 1 小时，已与两家大型工业企业合作。",
-      "source": "具身开发者社区",
-      "url": "https://robotics.hellobike.com/news/2026-10-31-bleu-robotics-raises-5-million-to-scale-humanoid-robot-deployment-in-factories"
+      "date": "2026-11-02",
+      "company": "机本智能",
+      "round": "两轮（天使系列）",
+      "amount": "累计近千万美元",
+      "investors": "Alphaist Partners、耀途资本分别领投；接力天使等跟投",
+      "summary": "北京，灵巧手“小脑”（灵巧操作模型），9 月成立。",
+      "source": "智东西",
+      "url": "https://www.zhidx.com/p/606419.html"
      }
     ]
    },
@@ -2563,24 +2598,24 @@
     "name": "新材料",
     "items": [
      {
-      "date": "2026-11-01",
-      "company": "思锐增材",
+      "date": "2026-11-02",
+      "company": "国科炭美",
       "round": "Pre-A 轮",
-      "amount": "千万级",
-      "investors": "彤恺万维创投、消费电子行业产业投资人；南科大梧桐天使基金追加；德太资本任顾问",
-      "summary": "3D 打印金属粉末，资金用于消费电子、液冷等场景规模化生产及多金属粉末精细调节研发。",
-      "source": "36氪",
-      "url": "https://eu.36kr.com/zh/newsflashes/4050529671320709"
+      "amount": "数亿元",
+      "investors": "长兴产业集团加码；复容投资、亳州产投、泰越资本",
+      "summary": "中科院山西煤化所成果转化，硬炭/多孔炭（钠电、超容），扩产并建亳州超级电容器产线。",
+      "source": "投资界",
+      "url": "https://www.pedaily.cn/first/"
      },
      {
-      "date": "2026-10-30",
-      "company": "AirMembrane（日本）",
-      "round": "未披露",
-      "amount": "未披露",
-      "investors": "Global Brain（Flagship Fund IX）领投；TAKANAWA Fund 首投；SHGB 跟投",
-      "summary": "石墨烯 EUV 光掩模保护膜，依托产综研连续合成与自动化转移技术；资金用于制造能力与量产线准备。",
-      "source": "石墨烯网",
-      "url": "http://www.graphene.tv/20261030161831/"
+      "date": "2026-11-02",
+      "company": "灵枢智肤（复旦东华团队）",
+      "round": "种子 + 天使轮",
+      "amount": "合计超千万元",
+      "investors": "元禾控股、华为哈勃",
+      "summary": "“离子皮肤”柔性触觉材料。",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4051972607530113"
      }
     ]
    },
@@ -2589,24 +2624,34 @@
     "name": "新能源",
     "items": [
      {
-      "date": "2026-10-30",
-      "company": "四川全固态",
-      "round": "A 轮",
-      "amount": "数千万元",
-      "investors": "红榕资本、明势创投领投；天泓投资、兴湘科创及老股东英诺天使跟投",
-      "summary": "全固态电池关键原材料硫化锂；百吨级产线升级与长沙研发中心；已完成数十吨交付，前三季度交付量达去年全年 3 倍。",
-      "source": "智通财经/同花顺",
-      "url": "https://news.10jqka.com.cn/20261030/c681301200.shtml"
+      "date": "2026-11-02",
+      "company": "高能数科",
+      "round": "B 轮",
+      "amount": "约 1,380 万美元",
+      "investors": "广金基金、鸿旗投资、陕西金融投资",
+      "summary": "电池 3D 打印（SEL 增材制造），用于全固态电池一体化制造装备量产与中试平台。",
+      "source": "Dealroom",
+      "url": "https://dealroom.co/news/168944-chinas-high-energy-digital-raises-15m-series-b-for-solid-state-battery-g/"
      },
      {
-      "date": "2026-10-30",
-      "company": "格睿克斯",
-      "round": "天使轮",
-      "amount": "数千万元",
-      "investors": "赛科基金领投；鄂尔多斯新能源研究院、长三角（常州）氢能创新中心等产业方参股",
-      "summary": "常州，清华欧阳明高院士团队背景，SOEC/SOFC；资金用于技术迭代、示范工程与产业化，服务航空航运化工及 AI 数据中心低碳能源。",
-      "source": "智通财经",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwywtx4698722.shtml"
+      "date": "2026-11-02",
+      "company": "鲲腾泰克",
+      "round": "新一轮",
+      "amount": "近 1 亿元",
+      "investors": "深创投、成都高新创投、金融城资本等",
+      "summary": "成都，智能多相电驱，覆盖商用车和人形机器人。",
+      "source": "投资界",
+      "url": "https://www.pedaily.cn/first/"
+     },
+     {
+      "date": "2026-11-02",
+      "company": "格陆博科技",
+      "round": "C++ 轮",
+      "amount": "超 6 亿元（C 轮累计超 11 亿元）",
+      "investors": "中汇金、金华创投、开源思创、东证资本、国丰投资等",
+      "summary": "汽车电子/线控底盘。",
+      "source": "投资界",
+      "url": "https://www.pedaily.cn/first/189356.shtml"
      }
     ]
    }
@@ -2614,16 +2659,13 @@
  },
  "stale": {
   "sge_hist": false,
-  "sge_live": true,
+  "sge_live": false,
   "fx": false,
   "58_mtfy": false,
   "58_zhjs": false,
-  "lr": true
+  "lr": false
  },
- "warnings": [
-  "sge_live: SGE live price 0 (closed?)",
-  "lr: HTTP Error 403: Forbidden"
- ],
+ "warnings": [],
  "raw": {
   "sge_hist": [
    {
@@ -4011,22 +4053,29 @@
     "c": 854.76,
     "l": 853.5,
     "h": 867.0
+   },
+   {
+    "d": "2026-11-02",
+    "o": 851.0,
+    "c": 836.08,
+    "l": 833.0,
+    "h": 855.0
    }
   ],
   "sge_live": {
-   "date": "2026-10-30",
-   "last": 860.1,
-   "high": 867.0,
-   "low": 860.1,
-   "open": 863.8,
-   "fetched_at": "2026-10-30 08:43"
+   "date": "2026-11-03",
+   "last": 849.0,
+   "high": 849.0,
+   "low": 834.0,
+   "open": 836.0,
+   "fetched_at": "2026-11-03 08:39"
   },
   "fx": {
-   "gbp_cny": 8.9476,
-   "usd_cny": 6.7138,
-   "date": "2026-10-30",
+   "gbp_cny": 8.9562,
+   "usd_cny": 6.7146,
+   "date": "2026-11-02",
    "kind": "人民银行中间价",
-   "url": "https://www.365area.com/news/pbc_20261030"
+   "url": "https://www.365area.com/news/pbc_20261102"
   },
   "58_mtfy": [
    [
@@ -4325,13 +4374,13 @@
     },
     {
      "m": "2026-11",
-     "v": 50023.28
+     "v": 50143.47
     }
    ],
    {
-    "latest": 50023.28,
-    "mom_pct": 0.24,
-    "yoy_pct": -15.64
+    "latest": 50143.47,
+    "mom_pct": 0.48,
+    "yoy_pct": -15.44
    }
   ],
   "lr": [
@@ -4787,32 +4836,52 @@
    }
   ],
   "news": {
-   "as_of": "2026-11-02 08:40",
-   "window_note": "周一覆盖近 72 小时（约 10/30 早–11/2 早）。一级市场：半导体微芸半导体 C 轮（等离子刻蚀设备）、登临科技港股招股获基石认购约 6.464 亿港元；AI DeepSeek 第二轮媒体披露约 1055 亿元、可灵增资交割约 198.02 亿元、零一万物获杭州国资数亿元、OpenAI 融资目标下调至约 200 亿美元；机器人天嗅智能天使+（机器嗅觉）、四川具身科技超 1 亿元 Pre-A、法国 Bleu Robotics 500 万欧元 Pre-seed；新材料思锐增材千万级 Pre-A（3D 打印金属粉）、日本 AirMembrane（石墨烯 EUV 保护膜）；新能源四川全固态数千万元 A 轮（硫化锂）、格睿克斯数千万元天使轮（SOEC/SOFC）。窗口内机器人/新材料披露偏少，均经投资界/21 世纪经济报道/港交所公告等核实，未编造金额。",
+   "as_of": "2026-11-03 08:50",
+   "window_note": "近 24 小时（约 11/2 早–11/3 早）。一级市场亮点：芯联动力近 20 亿元 C 轮（碳化硅，估值 20 亿美元）、简智机器人 1 亿美元 A+、RoboScience 数亿元 A2、达瓦科技累计近 5 亿元、暖芯迦 5 亿元 C+、国科炭美数亿元 Pre-A；全球并购：Marvell 全股票收购 Lumentum（约 1,150 亿美元）、onsemi 6 亿美元收购 Ferric。均经投资界/第一财经/公司公告等核实。",
    "sectors": [
     {
      "key": "semi",
      "name": "半导体",
      "items": [
       {
-       "date": "2026-10-30",
-       "company": "微芸半导体",
+       "date": "2026-11-02",
+       "company": "芯联动力",
        "round": "C 轮",
-       "amount": "未披露",
-       "investors": "芯禾资本、合肥产投集团、海恒资本",
-       "summary": "合肥，半导体等离子刻蚀设备（CCP/ICP），面向化合物半导体、MEMS、功率器件；资金加码设备研发与国产化生产。",
+       "amount": "近 20 亿元（投后估值约 20 亿美元）",
+       "investors": "中国移动链长基金领投；浪潮信息、元璟资本、中石化氢能基金、北方华创诺华资本、江丰电子、中信金石等",
+       "summary": "绍兴，车规级碳化硅制造封装；加码 SiC/GaN 制造与封装。",
        "source": "投资界",
-       "url": "https://vc.pedaily.cn/company/659006.html"
+       "url": "https://vc.pedaily.cn/invest/f2747"
       },
       {
-       "date": "2026-10-30",
-       "company": "登临科技",
-       "round": "港股招股/基石认购",
-       "amount": "基石认购约 6.464 亿港元",
-       "investors": "华圆、钜天投资（通富微电间接全资）、中方财团、ZGD Capital、光大理财",
-       "summary": "国产 GPGPU，10/30–11/5 招股，拟发售约 612.5 万股 H 股，预计 11/10 挂牌；基石按发售价中位数约占全球发售约 40.66%。",
-       "source": "新浪财经/公司公告",
-       "url": "https://finance.sina.com.cn/stock/hkstock/hkzmt/2026-10-30/doc-iniwyfwf4761840.shtml"
+       "date": "2026-11-02",
+       "company": "奕泰智能",
+       "round": "A 轮（A3 期）",
+       "amount": "A 轮累计超 2 亿元",
+       "investors": "锡创投领投；金投致源、洪山资本跟投",
+       "summary": "无锡，端侧/车载以太网交换芯片，出货量称居国内首位；资金用于量产交付。",
+       "source": "投资界",
+       "url": "https://www.pedaily.cn/first/"
+      },
+      {
+       "date": "2026-11-02",
+       "company": "Marvell 收购 Lumentum（全球）",
+       "round": "并购（全股票）",
+       "amount": "Lumentum 隐含企业价值约 1,150 亿美元",
+       "investors": "Marvell",
+       "summary": "合并电互联与光模块/激光能力，面向 AI 数据中心连接；预计 2028 年上半年交割。",
+       "source": "Marvell 公告",
+       "url": "https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity"
+      },
+      {
+       "date": "2026-11-02",
+       "company": "onsemi 收购 Ferric（全球）",
+       "round": "并购",
+       "amount": "6 亿美元现金 + 最多 1.75 亿美元或有对价",
+       "investors": "onsemi",
+       "summary": "集成稳压器（IVR）初创，面向 AI 处理器供电；onsemi 将 2030 年 AI 数据中心收入目标上调至超 30 亿美元。",
+       "source": "GlobeNewswire",
+       "url": "https://www.globenewswire.com/news-release/2026/11/02/3393726/0/en/onsemi-to-acquire-ferric-establishing-leadership-in-power-delivery-for-next-generation-ai-processors.html"
       }
      ]
     },
@@ -4821,44 +4890,44 @@
      "name": "AI",
      "items": [
       {
-       "date": "2026-10-30",
-       "company": "DeepSeek",
-       "round": "第二轮融资",
-       "amount": "约 1055 亿元（媒体披露）",
-       "investors": "腾讯、宁德时代等近 30 家；含长鑫存储、中芯国际、vivo、美团、吉利、立讯、运营商与险资等",
-       "summary": "投后估值约 6155 亿元；国资出资约占本轮 27%；叠加首轮约 500 亿，半年累计超 1500 亿元。",
-       "source": "21世纪经济报道",
-       "url": "https://www.21jingji.com/article/20261030/herald/f1f3146963f1de19418d797341443e46.html"
+       "date": "2026-11-02",
+       "company": "达瓦科技",
+       "round": "Pre-A + A 轮",
+       "amount": "累计近 5 亿元",
+       "investors": "启赋资本、投控东海、一村资本、宝捷会、鞍羽资本等",
+       "summary": "重庆，生成式世界基础模型，实时交互模型 Scenes AI 可在单张 RTX 5090 连续实时生成超 120 分钟。",
+       "source": "投资界",
+       "url": "https://www.pedaily.cn/first/"
       },
       {
-       "date": "2026-10-30",
-       "company": "可灵 AI（北京可灵）",
-       "round": "增资交割",
-       "amount": "约 198.02 亿元",
-       "investors": "快手 Lucky Labs 控股；阿里、腾讯、百度等；金蝶、沐曦等承接部分份额",
-       "summary": "视频生成大模型，交割后控股股东持股约 66.68%；部分中东相关主体未按期缴款退出，金蝶/沐曦等受让近 8 亿元份额。",
-       "source": "证券时报/同花顺",
-       "url": "https://stock.10jqka.com.cn/20261101/c681327189.shtml"
+       "date": "2026-11-03",
+       "company": "暖芯迦",
+       "round": "C+ 轮",
+       "amount": "5 亿元（累计约 10 亿元）",
+       "investors": "高榕创投领投；人保股权、砺思资本、建发新兴投资等跟投，君联资本等老股东追投",
+       "summary": "杭州，视觉脑机接口芯片，年内第二轮。",
+       "source": "动脉网",
+       "url": "https://www.vbdata.cn/1519102835"
       },
       {
-       "date": "2026-10-30",
-       "company": "零一万物",
-       "round": "战略投资",
-       "amount": "数亿元",
-       "investors": "杭州市、临平区两级国资联动",
-       "summary": "李开复创立；10/28 与杭州市、临平区签约，总部落地临平并建设产业 AI 转型基地。",
-       "source": "界面新闻",
-       "url": "https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwynec4737527.shtml"
+       "date": "2026-11-02",
+       "company": "君柔科技",
+       "round": "天使+ 轮",
+       "amount": "近 1 亿元",
+       "investors": "顺为资本领投；高瓴创投、智元机器人、南沙启晟跟投",
+       "summary": "深圳，脑机接口“神经蠕虫”动态电极，资金用于工艺定型和 GMP 产线。",
+       "source": "投资界",
+       "url": "https://www.pedaily.cn/first/"
       },
       {
-       "date": "2026-11-01",
-       "company": "OpenAI（美国）",
-       "round": "新一轮融资（目标调整，尚未交割）",
-       "amount": "目标约 200 亿美元（此前约 300 亿）；拟议估值约 1.25 万亿美元",
-       "investors": "据报含 MGX、软银、红杉、Coatue、Founders Fund、a16z 等（进行中）",
-       "summary": "科技股回调与 Anthropic IPO 分流下，融资目标下调约 100 亿美元；认购仍在推进。",
-       "source": "21世纪经济报道",
-       "url": "https://www.21jingji.com/article/20261101/herald/ba561493dda674dafaa7624c6bca88a5.html"
+       "date": "2026-11-02",
+       "company": "42AI（以色列）",
+       "round": "种子轮",
+       "amount": "6,250 万美元",
+       "investors": "创始人及 Infinity Group（三年内投入）",
+       "summary": "“行为世界模型”结束隐身，先在券商场景预测交易者行为。",
+       "source": "TechCrunch",
+       "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
       }
      ]
     },
@@ -4867,34 +4936,34 @@
      "name": "机器人",
      "items": [
       {
-       "date": "2026-10-30",
-       "company": "天嗅智能",
-       "round": "天使+轮",
-       "amount": "未披露（投后估值超 2 亿元）",
-       "investors": "杭州市科创集团领投",
-       "summary": "天津大学机器人研究所出身，机器嗅觉芯片+大模型+气味库；杭州滨江智造基地投产，资金用于芯片迭代、产能与九大行业方案落地。",
-       "source": "投资界",
-       "url": "https://news.pedaily.cn/202610/571137.shtml"
+       "date": "2026-11-02",
+       "company": "简智机器人",
+       "round": "A+ 轮",
+       "amount": "1 亿美元（三季度完成，11/2 披露）",
+       "investors": "上汽集团、百度、首程控股、银河通用等产业方；光合创投、中信金石、中证投、建银国际、华泰紫金等",
+       "summary": "北京，具身数据基础设施（采集设备 + 数据产线），不做整机。",
+       "source": "第一财经",
+       "url": "https://www.yicai.com/news/103420710.html"
       },
       {
        "date": "2026-11-02",
-       "company": "四川具身科技",
-       "round": "Pre-A 轮",
-       "amount": "超 1 亿元",
-       "investors": "未披露（报道称获省市区县国资协同支持）",
-       "summary": "电子科技大学团队，情感交互人形“爱湫”等已批量交付；资金用于产品迭代、万台级产线与全国销售体系。",
-       "source": "AI123/公开报道",
-       "url": "https://cn.ai123.com/news/16960"
+       "company": "RoboScience 机器科学",
+       "round": "A2 轮",
+       "amount": "数亿元",
+       "investors": "琥珀资本、鸿瑞达投资、上海半导体产投联合领投；360 战投、国联通宝、金鼎资本等跟投",
+       "summary": "具身大模型 Visics + 仿真引擎 RoboMirage，推进物流、零售、工业场景落地。",
+       "source": "21 世纪经济报道",
+       "url": "https://www.21jingji.com/article/20261102/herald/0774e2f91d54e3e60f04af84a8e759e3.html"
       },
       {
-       "date": "2026-10-31",
-       "company": "Bleu Robotics（法国）",
-       "round": "Pre-seed 轮",
-       "amount": "500 万欧元",
-       "investors": "Contrarian Ventures、OVNI Capital 领投；Charlie Songhurst 等参投",
-       "summary": "工业人形机器人软件，溯因学习少样本示教；目标将部署压缩至约 1 小时，已与两家大型工业企业合作。",
-       "source": "具身开发者社区",
-       "url": "https://robotics.hellobike.com/news/2026-10-31-bleu-robotics-raises-5-million-to-scale-humanoid-robot-deployment-in-factories"
+       "date": "2026-11-02",
+       "company": "机本智能",
+       "round": "两轮（天使系列）",
+       "amount": "累计近千万美元",
+       "investors": "Alphaist Partners、耀途资本分别领投；接力天使等跟投",
+       "summary": "北京，灵巧手“小脑”（灵巧操作模型），9 月成立。",
+       "source": "智东西",
+       "url": "https://www.zhidx.com/p/606419.html"
       }
      ]
     },
@@ -4903,24 +4972,24 @@
      "name": "新材料",
      "items": [
       {
-       "date": "2026-11-01",
-       "company": "思锐增材",
+       "date": "2026-11-02",
+       "company": "国科炭美",
        "round": "Pre-A 轮",
-       "amount": "千万级",
-       "investors": "彤恺万维创投、消费电子行业产业投资人；南科大梧桐天使基金追加；德太资本任顾问",
-       "summary": "3D 打印金属粉末，资金用于消费电子、液冷等场景规模化生产及多金属粉末精细调节研发。",
-       "source": "36氪",
-       "url": "https://eu.36kr.com/zh/newsflashes/4050529671320709"
+       "amount": "数亿元",
+       "investors": "长兴产业集团加码；复容投资、亳州产投、泰越资本",
+       "summary": "中科院山西煤化所成果转化，硬炭/多孔炭（钠电、超容），扩产并建亳州超级电容器产线。",
+       "source": "投资界",
+       "url": "https://www.pedaily.cn/first/"
       },
       {
-       "date": "2026-10-30",
-       "company": "AirMembrane（日本）",
-       "round": "未披露",
-       "amount": "未披露",
-       "investors": "Global Brain（Flagship Fund IX）领投；TAKANAWA Fund 首投；SHGB 跟投",
-       "summary": "石墨烯 EUV 光掩模保护膜，依托产综研连续合成与自动化转移技术；资金用于制造能力与量产线准备。",
-       "source": "石墨烯网",
-       "url": "http://www.graphene.tv/20261030161831/"
+       "date": "2026-11-02",
+       "company": "灵枢智肤（复旦东华团队）",
+       "round": "种子 + 天使轮",
+       "amount": "合计超千万元",
+       "investors": "元禾控股、华为哈勃",
+       "summary": "“离子皮肤”柔性触觉材料。",
+       "source": "36氪",
+       "url": "https://36kr.com/p/4051972607530113"
       }
      ]
     },
@@ -4929,24 +4998,34 @@
      "name": "新能源",
      "items": [
       {
-       "date": "2026-10-30",
-       "company": "四川全固态",
-       "round": "A 轮",
-       "amount": "数千万元",
-       "investors": "红榕资本、明势创投领投；天泓投资、兴湘科创及老股东英诺天使跟投",
-       "summary": "全固态电池关键原材料硫化锂；百吨级产线升级与长沙研发中心；已完成数十吨交付，前三季度交付量达去年全年 3 倍。",
-       "source": "智通财经/同花顺",
-       "url": "https://news.10jqka.com.cn/20261030/c681301200.shtml"
+       "date": "2026-11-02",
+       "company": "高能数科",
+       "round": "B 轮",
+       "amount": "约 1,380 万美元",
+       "investors": "广金基金、鸿旗投资、陕西金融投资",
+       "summary": "电池 3D 打印（SEL 增材制造），用于全固态电池一体化制造装备量产与中试平台。",
+       "source": "Dealroom",
+       "url": "https://dealroom.co/news/168944-chinas-high-energy-digital-raises-15m-series-b-for-solid-state-battery-g/"
       },
       {
-       "date": "2026-10-30",
-       "company": "格睿克斯",
-       "round": "天使轮",
-       "amount": "数千万元",
-       "investors": "赛科基金领投；鄂尔多斯新能源研究院、长三角（常州）氢能创新中心等产业方参股",
-       "summary": "常州，清华欧阳明高院士团队背景，SOEC/SOFC；资金用于技术迭代、示范工程与产业化，服务航空航运化工及 AI 数据中心低碳能源。",
-       "source": "智通财经",
-       "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-30/doc-iniwywtx4698722.shtml"
+       "date": "2026-11-02",
+       "company": "鲲腾泰克",
+       "round": "新一轮",
+       "amount": "近 1 亿元",
+       "investors": "深创投、成都高新创投、金融城资本等",
+       "summary": "成都，智能多相电驱，覆盖商用车和人形机器人。",
+       "source": "投资界",
+       "url": "https://www.pedaily.cn/first/"
+      },
+      {
+       "date": "2026-11-02",
+       "company": "格陆博科技",
+       "round": "C++ 轮",
+       "amount": "超 6 亿元（C 轮累计超 11 亿元）",
+       "investors": "中汇金、金华创投、开源思创、东证资本、国丰投资等",
+       "summary": "汽车电子/线控底盘。",
+       "source": "投资界",
+       "url": "https://www.pedaily.cn/first/189356.shtml"
       }
      ]
     }
