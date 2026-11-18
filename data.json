@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-17 08:35",
+ "generated_at": "2026-11-18 08:34",
  "tz": "北京时间",
  "kpi": {
-  "total": 22057480.366213597,
-  "cost": 25501937.0,
-  "pl": -3444456.6337864026,
-  "pl_pct": -13.506647098165143,
+  "total": 22034630.93347168,
+  "cost": 25485089.0,
+  "pl": -3450458.0665283203,
+  "pl_pct": -13.539125041032113,
   "day_change": {
-   "vs": "2026-11-16",
-   "abs": 16748.58541096002,
-   "pct": 0.0759892438124398
+   "vs": "2026-11-17",
+   "abs": -22849.43274191767,
+   "pct": -0.10359040272304693
   }
  },
  "assets": [
@@ -19,13 +19,13 @@
    "sub": "菜百投资金条 999.9‰ · 18 笔",
    "kind": "gold",
    "cost": 1130945.0,
-   "value": 941516.0,
-   "low": 937222.0,
-   "high": 941516.0,
+   "value": 939595.0,
+   "low": 935301.0,
+   "high": 939595.0,
    "estimated": false,
-   "basis": "菜百基础金价 833.2 元/克（2026-11-17）× 1130.0g；区间下沿取菜百回购价 829.4（基础金价 − 3.8）；市场参考 上金所 Au99.99 2026-11-17 08:35（延时） 828.0",
-   "pl": -189429.0,
-   "pl_pct": -16.749620892262666
+   "basis": "菜百基础金价 831.5 元/克（2026-11-17）× 1130.0g；区间下沿取菜百回购价 827.7（基础金价 − 3.8）；市场参考 上金所 Au99.99 2026-11-18 08:34（延时） 829.21",
+   "pl": -191350.0,
+   "pl_pct": -16.919478842914554
   },
   {
    "id": "mtfy",
@@ -33,14 +33,14 @@
    "sub": "北京·海淀 · 130㎡",
    "kind": "cn_property",
    "cost": 13000000,
-   "value": 9291074.444079999,
-   "low": 8774490.704989152,
-   "high": 9807658.183170848,
+   "value": 9273765.952879999,
+   "low": 8758144.565899871,
+   "high": 9789387.339860128,
    "estimated": true,
-   "psm": 71469.803416,
+   "psm": 71336.661176,
    "basis": "58同城小区月度均价 × 0.9416（大户型折价，按 2026-10-08 基线校准为 72,000 元/㎡）± 5.6%",
-   "pl": -3708925.555920001,
-   "pl_pct": -28.530196584000006
+   "pl": -3726234.047120001,
+   "pl_pct": -28.663338824000007
   },
   {
    "id": "zhjs",
@@ -48,24 +48,24 @@
    "sub": "北京·石景山 · 134.56㎡",
    "kind": "cn_property",
    "cost": 5000000,
-   "value": 7005470.3778096,
-   "low": 6665705.064485835,
-   "high": 7345235.691133365,
+   "value": 7014595.32442368,
+   "low": 6674387.4511891315,
+   "high": 7354803.197658229,
    "estimated": true,
-   "psm": 52062.05691,
+   "psm": 52129.870128,
    "basis": "58同城小区月度均价 × 1.0173（参考 cityhouse 三季度 53,900、安居客 50,125，校准为 51,500 元/㎡）± 4.9%",
-   "pl": 2005470.3778096,
-   "pl_pct": 40.109407556192004
+   "pl": 2014595.32442368,
+   "pl_pct": 40.2919064884736
   },
   {
    "id": "london",
    "name": "One Park Drive 2509",
    "sub": "伦敦·Canary Wharf · 44㎡ 开间（studio）",
    "kind": "uk_property",
-   "cost": 6370992.0,
-   "value": 4819419.544323999,
-   "low": 4417102.782363039,
-   "high": 5309743.097963919,
+   "cost": 6354144.0,
+   "value": 4806674.656168,
+   "low": 4405421.81530528,
+   "high": 5295701.555969439,
    "estimated": true,
    "gbp": {
     "cost": 720000,
@@ -73,21 +73,21 @@
     "low": 499186.62639999995,
     "high": 600065.8971999999
    },
-   "basis": "EPC 面积 44㎡（474 sq ft）× 同楼 2025–26 年二手成交 £1,054–1,267/sqft（中值取 £1,150）；人民币按 2026-11-16 中间价 8.8486 折算（成本也按当日汇率折算，不含汇兑损益）",
-   "pl": -1551572.4556760006,
-   "pl_pct": -24.353702777777787
+   "basis": "EPC 面积 44㎡（474 sq ft）× 同楼 2025–26 年二手成交 £1,054–1,267/sqft（中值取 £1,150）；人民币按 2026-11-17 中间价 8.8252 折算（成本也按当日汇率折算，不含汇兑损益）",
+   "pl": -1547469.3438320002,
+   "pl_pct": -24.35370277777778
   }
  ],
  "gold": {
-  "price": 828.0,
-  "price_label": "上金所 Au99.99 2026-11-17 08:35（延时）",
+  "price": 829.21,
+  "price_label": "上金所 Au99.99 2026-11-18 08:34（延时）",
   "live": {
-   "date": "2026-11-17",
-   "last": 828.0,
-   "high": 836.88,
-   "low": 828.0,
-   "open": 830.0,
-   "fetched_at": "2026-11-17 08:35"
+   "date": "2026-11-18",
+   "last": 829.21,
+   "high": 834.0,
+   "low": 825.0,
+   "open": 833.0,
+   "fetched_at": "2026-11-18 08:34"
   },
   "history": [
    {
@@ -1552,15 +1552,22 @@
     "c": 829.49,
     "l": 823.0,
     "h": 841.0
+   },
+   {
+    "d": "2026-11-17",
+    "o": 830.0,
+    "c": 832.5,
+    "l": 825.01,
+    "h": 836.88
    }
   ],
   "caibai": {
-   "base": 833.2,
-   "buyback": 829.4,
-   "bar_retail": 848.2,
+   "base": 831.5,
+   "buyback": 827.7,
+   "bar_retail": 846.5,
    "date": "2026-11-17",
    "source": "http://www.huangjinjiage.cn/talk/20211114/12426.html",
-   "note": "第三方汇总，非菜百官方；本机 curl 被拦，需要 WebFetch 手动更新"
+   "note": "第三方汇总，非菜百官方；本机 curl 被拦，需要 WebFetch 手动更新。站点仍标注 2026-11-17（较早前同一日报价为 833.2/848.2）；2026-11-18 早间尚未见到当日新牌价。"
   },
   "orders": [
    {
@@ -1858,13 +1865,13 @@
     },
     {
      "m": "2026-11",
-     "v": 75902.51
+     "v": 75761.11
     }
    ],
    "summary": {
-    "latest": 75902.51,
-    "mom_pct": -0.34,
-    "yoy_pct": -1.74
+    "latest": 75761.11,
+    "mom_pct": -0.52,
+    "yoy_pct": -1.92
    },
    "deals": [
     {
@@ -1903,7 +1910,7 @@
      "url": "https://beijing.anjuke.com/gufangjia/xiaoqu-50213/"
     }
    ],
-   "psm_est": 71469.803416
+   "psm_est": 71336.661176
   },
   {
    "id": "zhjs",
@@ -2051,13 +2058,13 @@
     },
     {
      "m": "2026-11",
-     "v": 51176.7
+     "v": 51243.36
     }
    ],
    "summary": {
-    "latest": 51176.7,
-    "mom_pct": 2.55,
-    "yoy_pct": -13.69
+    "latest": 51243.36,
+    "mom_pct": 2.69,
+    "yoy_pct": -13.58
    },
    "deals": [],
    "refs": [
@@ -2074,7 +2081,7 @@
      "url": "http://bj.cityhouse.com.cn/marketha/pa0164196sj954/"
     }
    ],
-   "psm_est": 52062.05691
+   "psm_est": 52129.870128
   }
  ],
  "london": {
@@ -2549,39 +2556,29 @@
   ]
  },
  "fx": {
-  "gbp_cny": 8.8486,
-  "usd_cny": 6.7141,
-  "date": "2026-11-16",
+  "gbp_cny": 8.8252,
+  "usd_cny": 6.7132,
+  "date": "2026-11-17",
   "kind": "人民银行中间价",
-  "url": "https://www.365area.com/news/pbc_20261116"
+  "url": "https://www.365area.com/news/pbc_20261117"
  },
  "news": {
-  "as_of": "2026-11-17",
-  "window_note": "近 24 小时（约 11/16 早–11/17 早）。一级市场为主：半导体有英伟芯数亿元 Pre-A/Pre-A+（经纬、中金等，硅光互连）、天弓天芯数千万元种子轮（中科创星、英诺，二维半导体）。AI 有稳准智能数亿元 A/A+（数据大模型）、无界进化超亿元 Pre-A（AI 虚拟细胞）、造物潭数千万元天使轮（硬件研发智能体）。机器人有智动未来亿元级 Pre-A+（中美绿色基金领投，具身服务机器人）、精一微感两轮数千万（MEMS 六维力），以及美国 Remedy Robotics 6200 万美元 B 轮。新材料、新能源在本窗口内未见经核实的一级市场新披露。CataX AI 种子轮 4000 万元（启明创投独家）、元纽科技数千万元 A 轮（睡眠脑机）、神州半导体科创板 IPO 过会（拟募资调降至 21.83 亿元）已核实，篇幅所限未单列。途深智合、聚能电物理、泛函数、核芯光电、灵睿智芯等为窗口前或复述报道，不计入新融资。",
+  "as_of": "2026-11-18",
+  "window_note": "近 24 小时（约 11/17 早–11/18 早）。一级市场为主：半导体有 NovaSilicon（上海芯星元）近亿元 Pre-A+（顺为领投，纪源、经纬跟投）。AI 有子虔科技新一轮（宁德时代独家，金额未披露），以及 Alphabet 旗下 Isomorphic Labs 50 亿美元 C 轮。机器人有蓝点触控数亿元 D3 轮，以及法国/美国 Genesis AI 5 亿美元 A 轮（投后估值 35 亿美元）。新材料有博理科技 B2 与 B+ 轮合计超 5 亿元。新能源在本窗口内未见经核实的一级市场新披露；宁德时代对子虔科技的投资已列入 AI。智动未来 Pre-A+、稳准智能 A/A+、英伟芯系列融资等为昨日已报道，不重复计入。酉术量子天使轮、穗升科技 Pre-A、ARTi Pre-A 已核实，篇幅所限未单列。",
   "sectors": [
    {
     "key": "semi",
     "name": "半导体",
     "items": [
      {
-      "date": "2026-11-16",
-      "company": "英伟芯",
-      "round": "Pre-A 及 Pre-A+ 轮",
-      "amount": "累计数亿元",
-      "investors": "Pre-A 轮由上海科创集团、上海未来产业基金领投，浦东创投旗下浦东天使基金跟投；Pre-A+ 轮由经纬创投、中金资本旗下基金领投，老股东持续加注",
-      "summary": "西安，面向 AI 智算中心的高速光互连/硅光芯片与 NPO、CPO、OIO 光引擎；资金用于研发迭代、量产交付、人才扩充与客户导入。",
+      "date": "2026-11-17",
+      "company": "NovaSilicon（上海芯星元）",
+      "round": "Pre-A+ 轮",
+      "amount": "近亿元",
+      "investors": "顺为资本领投，纪源资本、经纬创投跟投；光源资本担任独家财务顾问。此前已获五源资本、商汤国香资本、上海未来产业基金、上海科创集团等投资",
+      "summary": "上海，AI-native 芯片设计平台，提出 CDK（电路设计套件）概念，分模拟 Vega 与数字 Sirius 两条线；2026 年 6 月成立以来第三轮。资金用于 CDK 研发、首批 IP 流片与交付，以及团队扩充。第一财经援引上海科创集团称 Pre-A 与 Pre-A+ 合计超亿元。",
       "source": "投资界",
-      "url": "https://news.pedaily.cn/202611/571900.shtml"
-     },
-     {
-      "date": "2026-11-16",
-      "company": "天弓天芯",
-      "round": "种子轮",
-      "amount": "数千万元",
-      "investors": "中科创星、英诺基金",
-      "summary": "北京科技大学张跃院士团队成果转化，二维半导体材料到芯片制造；已实现 2 英寸单层二硫化钼单晶晶圆，并完成 8 英寸装备研制与工艺开发。资金用于团队、晶圆产能及成果转化。",
-      "source": "36氪",
-      "url": "https://www.36kr.com/p/4072171878486919"
+      "url": "https://news.pedaily.cn/202611/571973.shtml"
      }
     ]
    },
@@ -2590,34 +2587,24 @@
     "name": "AI",
     "items": [
      {
-      "date": "2026-11-16",
-      "company": "稳准智能",
-      "round": "A 轮及 A+ 轮",
-      "amount": "数亿元",
-      "investors": "A 轮由国科投资与和玉资本联合领投；A+ 轮投资方包括鼎晖投资、上海国投先导、徐汇科创投等；高鹄资本担任 A 轮独家财务顾问",
-      "summary": "雄安，清华背景团队，数据大模型（LDM）；连续完成四轮融资。资金用于算法迭代、行业垂域模型与产业化落地。",
+      "date": "2026-11-17",
+      "company": "子虔科技",
+      "round": "新一轮（战略投资）",
+      "amount": "未披露",
+      "investors": "宁德时代独家战略投资",
+      "summary": "AI 工业研发平台（zCAD.AI / zCAD.Online），用 AI 生成可编辑、可仿真的工程设计方案。资金将重点投入细分行业工程知识采集。金额未披露。",
       "source": "投资界",
-      "url": "https://news.pedaily.cn/202611/571899.shtml"
+      "url": "https://news.pedaily.cn/202611/571998.shtml"
      },
      {
-      "date": "2026-11-16",
-      "company": "无界进化",
-      "round": "Pre-A 轮",
-      "amount": "超亿元",
-      "investors": "星连资本、Prosperity7、华盖资本、华控基金、德同资本等联合投资；老股东顺为资本、红杉中国、松禾资本追加",
-      "summary": "AI 虚拟细胞模型，报道称刷新国内该赛道单笔融资纪录；距 6 月数千万元天使轮约五个月。资金用于基础大模型研发与高通量自动化干湿闭环体系扩容。",
-      "source": "投资界",
-      "url": "https://news.pedaily.cn/202611/571905.shtml"
-     },
-     {
-      "date": "2026-11-16",
-      "company": "造物潭",
-      "round": "天使轮",
-      "amount": "数千万元",
-      "investors": "嘉铭浩春领投；国资战略引导基金及智能制造领域产业资本参与",
-      "summary": "上海，电子硬件研发智能体「小潭子」，以自研电子行业大模型与多岗位 AI 数字员工驱动硬件研发。资金用于模型训练迭代、工程对象本体建设及企业级交付。",
-      "source": "投资界",
-      "url": "https://news.pedaily.cn/20261116/143314.shtml"
+      "date": "2026-11-17",
+      "company": "Isomorphic Labs（英国）",
+      "round": "C 轮",
+      "amount": "50 亿美元",
+      "investors": "Greenoaks 与 Sequoia Capital 联合领投；a16z 等新投资者加入；Alphabet 继续大额投入；老股东 Thrive Capital、MGX、GV、CapitalG、淡马锡、英国主权 AI 基金跟投",
+      "summary": "Alphabet 旗下、由 Demis Hassabis 领导的 AI 药物设计公司；资金用于加速自研药物设计引擎 IsoDDE、扩大候选药物管线，并建设 AI 驱动的生物工程基础设施。",
+      "source": "Isomorphic Labs",
+      "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-c-investment-round"
      }
     ]
    },
@@ -2627,40 +2614,41 @@
     "items": [
      {
       "date": "2026-11-17",
-      "company": "智动未来（AutoLife Robotics）",
-      "round": "Pre-A+ 轮",
-      "amount": "亿元级",
-      "investors": "中美绿色基金领投，南曦创投联合领投，老股东海珠城发继续加码",
-      "summary": "广州海珠，具身服务机器人（小智 S3）及可微分粒子世界模型；成立以来第四轮，累计股权融资数亿元。资金用于广州新产线扩产，以及展会、酒店、文旅、零售场景规模化部署。",
-      "source": "凤凰网",
-      "url": "https://sz.ifeng.com/c/8y6LOkoAMqT"
+      "company": "蓝点触控",
+      "round": "D3 轮",
+      "amount": "数亿元",
+      "investors": "洪泰基金、中关村科学城、弘毅投资、浙创投、厦门海投集团、厦门海沧产投、奥普特、新未来、山证投资、曦晨资本、秦创投、陕西国晟、江门金控、君安控股等 14 家机构联合投资",
+      "summary": "北京，机器人力传感器及力控技术；近半年融资额已超 10 亿元。资金用于新一代力传感器研发、海外市场、扩充产能，以及向算法和数据端延伸。",
+      "source": "投资界",
+      "url": "https://news.pedaily.cn/202611/571956.shtml"
      },
      {
-      "date": "2026-11-16",
-      "company": "精一微感",
-      "round": "天使轮及天使+轮",
-      "amount": "累计数千万元",
-      "investors": "海南芯动联科投资等产业方",
-      "summary": "上海，MEMS 六维力/力触觉传感器，面向机器人腕部与指尖；已建自动化产线。资金用于产线扩充、市场推广及力触觉模型开发。",
-      "source": "36氪",
-      "url": "https://www.36kr.com/p/4070932645172105"
-     },
-     {
-      "date": "2026-11-16",
-      "company": "Remedy Robotics（美国）",
-      "round": "B 轮",
-      "amount": "6200 万美元",
-      "investors": "DCVC 领投；新投资者包括 UC Investments、Skip Capital、Hostplus；老股东 Build Collective、Blackbird、Divergent Capital、KdT Ventures 追加",
-      "summary": "旧金山，AI 赋能的心血管/血管内介入手术机器人平台 N1；资金用于与加州大学合作的关键性临床试验、推进神经介入相关 FDA 审批，以及向临床合作网络部署样机。产品仍在研发、尚未获准销售。",
+      "date": "2026-11-17",
+      "company": "Genesis AI（法国/美国）",
+      "round": "A 轮",
+      "amount": "5 亿美元",
+      "investors": "Premji Invest、Khosla Ventures、Eclipse 联合领投；Durable Capital Partners、T. Rowe Price Associates、Bpifrance、HSG、NVIDIA、AMD Ventures、Zoom、Samsung Next、Ericsson 等参与；个人投资者包括 Eric Schmidt、袁征、杨致远、Xavier Niel、Zach Kirkhorn",
+      "summary": "巴黎及加州圣卡洛斯，通用机器人（旗舰机型 Eno），投后估值 35 亿美元。资金用于数据采集与大规模训练、攻关人类水平物理操控、规模化部署，以及扩充团队。",
       "source": "PR Newswire",
-      "url": "https://www.prnewswire.com/news-releases/remedy-robotics-raises-62-million-series-b-to-bring-life-saving-cardiovascular-intervention-to-patients-everywhere-302939871.html"
+      "url": "https://www.prnewswire.com/news-releases/genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-master-human-level-dexterity-in-general-purpose-robots-and-deploy-at-scale-302941249.html"
      }
     ]
    },
    {
     "key": "materials",
     "name": "新材料",
-    "items": []
+    "items": [
+     {
+      "date": "2026-11-17",
+      "company": "博理科技（POLLYPOLYMER）",
+      "round": "B2 轮及 B+ 轮",
+      "amount": "合计超 5 亿元",
+      "investors": "B2 轮由基石资本与老股东金沙江联合资本联合领投，格致资本、天堂硅谷、中时资本、云锦资本、卓璞基金跟投；B+ 轮由经纬创投领投，安耐德资本、天堂硅谷跟投，产业方长盈精密参投",
+      "summary": "江苏，高分子弹性体材料与超高速 3D 打印批量制造，业务向具身智能弹性零部件（RoboFab）拓展。资金用于材料与复合材料研发、产能与总部基地、行业应用及全球交付网络。",
+      "source": "36氪",
+      "url": "https://www.36kr.com/p/4072516740797318"
+     }
+    ]
    },
    {
     "key": "energy",
@@ -4142,22 +4130,29 @@
     "c": 829.49,
     "l": 823.0,
     "h": 841.0
+   },
+   {
+    "d": "2026-11-17",
+    "o": 830.0,
+    "c": 832.5,
+    "l": 825.01,
+    "h": 836.88
    }
   ],
   "sge_live": {
-   "date": "2026-11-17",
-   "last": 828.0,
-   "high": 836.88,
-   "low": 828.0,
-   "open": 830.0,
-   "fetched_at": "2026-11-17 08:35"
+   "date": "2026-11-18",
+   "last": 829.21,
+   "high": 834.0,
+   "low": 825.0,
+   "open": 833.0,
+   "fetched_at": "2026-11-18 08:34"
   },
   "fx": {
-   "gbp_cny": 8.8486,
-   "usd_cny": 6.7141,
-   "date": "2026-11-16",
+   "gbp_cny": 8.8252,
+   "usd_cny": 6.7132,
+   "date": "2026-11-17",
    "kind": "人民银行中间价",
-   "url": "https://www.365area.com/news/pbc_20261116"
+   "url": "https://www.365area.com/news/pbc_20261117"
   },
   "58_mtfy": [
    [
@@ -4303,13 +4298,13 @@
     },
     {
      "m": "2026-11",
-     "v": 75902.51
+     "v": 75761.11
     }
    ],
    {
-    "latest": 75902.51,
-    "mom_pct": -0.34,
-    "yoy_pct": -1.74
+    "latest": 75761.11,
+    "mom_pct": -0.52,
+    "yoy_pct": -1.92
    }
   ],
   "58_zhjs": [
@@ -4456,13 +4451,13 @@
     },
     {
      "m": "2026-11",
-     "v": 51176.7
+     "v": 51243.36
     }
    ],
    {
-    "latest": 51176.7,
-    "mom_pct": 2.55,
-    "yoy_pct": -13.69
+    "latest": 51243.36,
+    "mom_pct": 2.69,
+    "yoy_pct": -13.58
    }
   ],
   "lr": [
@@ -4918,32 +4913,22 @@
    }
   ],
   "news": {
-   "as_of": "2026-11-17",
-   "window_note": "近 24 小时（约 11/16 早–11/17 早）。一级市场为主：半导体有英伟芯数亿元 Pre-A/Pre-A+（经纬、中金等，硅光互连）、天弓天芯数千万元种子轮（中科创星、英诺，二维半导体）。AI 有稳准智能数亿元 A/A+（数据大模型）、无界进化超亿元 Pre-A（AI 虚拟细胞）、造物潭数千万元天使轮（硬件研发智能体）。机器人有智动未来亿元级 Pre-A+（中美绿色基金领投，具身服务机器人）、精一微感两轮数千万（MEMS 六维力），以及美国 Remedy Robotics 6200 万美元 B 轮。新材料、新能源在本窗口内未见经核实的一级市场新披露。CataX AI 种子轮 4000 万元（启明创投独家）、元纽科技数千万元 A 轮（睡眠脑机）、神州半导体科创板 IPO 过会（拟募资调降至 21.83 亿元）已核实，篇幅所限未单列。途深智合、聚能电物理、泛函数、核芯光电、灵睿智芯等为窗口前或复述报道，不计入新融资。",
+   "as_of": "2026-11-18",
+   "window_note": "近 24 小时（约 11/17 早–11/18 早）。一级市场为主：半导体有 NovaSilicon（上海芯星元）近亿元 Pre-A+（顺为领投，纪源、经纬跟投）。AI 有子虔科技新一轮（宁德时代独家，金额未披露），以及 Alphabet 旗下 Isomorphic Labs 50 亿美元 C 轮。机器人有蓝点触控数亿元 D3 轮，以及法国/美国 Genesis AI 5 亿美元 A 轮（投后估值 35 亿美元）。新材料有博理科技 B2 与 B+ 轮合计超 5 亿元。新能源在本窗口内未见经核实的一级市场新披露；宁德时代对子虔科技的投资已列入 AI。智动未来 Pre-A+、稳准智能 A/A+、英伟芯系列融资等为昨日已报道，不重复计入。酉术量子天使轮、穗升科技 Pre-A、ARTi Pre-A 已核实，篇幅所限未单列。",
    "sectors": [
     {
      "key": "semi",
      "name": "半导体",
      "items": [
       {
-       "date": "2026-11-16",
-       "company": "英伟芯",
-       "round": "Pre-A 及 Pre-A+ 轮",
-       "amount": "累计数亿元",
-       "investors": "Pre-A 轮由上海科创集团、上海未来产业基金领投，浦东创投旗下浦东天使基金跟投；Pre-A+ 轮由经纬创投、中金资本旗下基金领投，老股东持续加注",
-       "summary": "西安，面向 AI 智算中心的高速光互连/硅光芯片与 NPO、CPO、OIO 光引擎；资金用于研发迭代、量产交付、人才扩充与客户导入。",
+       "date": "2026-11-17",
+       "company": "NovaSilicon（上海芯星元）",
+       "round": "Pre-A+ 轮",
+       "amount": "近亿元",
+       "investors": "顺为资本领投，纪源资本、经纬创投跟投；光源资本担任独家财务顾问。此前已获五源资本、商汤国香资本、上海未来产业基金、上海科创集团等投资",
+       "summary": "上海，AI-native 芯片设计平台，提出 CDK（电路设计套件）概念，分模拟 Vega 与数字 Sirius 两条线；2026 年 6 月成立以来第三轮。资金用于 CDK 研发、首批 IP 流片与交付，以及团队扩充。第一财经援引上海科创集团称 Pre-A 与 Pre-A+ 合计超亿元。",
        "source": "投资界",
-       "url": "https://news.pedaily.cn/202611/571900.shtml"
-      },
-      {
-       "date": "2026-11-16",
-       "company": "天弓天芯",
-       "round": "种子轮",
-       "amount": "数千万元",
-       "investors": "中科创星、英诺基金",
-       "summary": "北京科技大学张跃院士团队成果转化，二维半导体材料到芯片制造；已实现 2 英寸单层二硫化钼单晶晶圆，并完成 8 英寸装备研制与工艺开发。资金用于团队、晶圆产能及成果转化。",
-       "source": "36氪",
-       "url": "https://www.36kr.com/p/4072171878486919"
+       "url": "https://news.pedaily.cn/202611/571973.shtml"
       }
      ]
     },
@@ -4952,34 +4937,24 @@
      "name": "AI",
      "items": [
       {
-       "date": "2026-11-16",
-       "company": "稳准智能",
-       "round": "A 轮及 A+ 轮",
-       "amount": "数亿元",
-       "investors": "A 轮由国科投资与和玉资本联合领投；A+ 轮投资方包括鼎晖投资、上海国投先导、徐汇科创投等；高鹄资本担任 A 轮独家财务顾问",
-       "summary": "雄安，清华背景团队，数据大模型（LDM）；连续完成四轮融资。资金用于算法迭代、行业垂域模型与产业化落地。",
+       "date": "2026-11-17",
+       "company": "子虔科技",
+       "round": "新一轮（战略投资）",
+       "amount": "未披露",
+       "investors": "宁德时代独家战略投资",
+       "summary": "AI 工业研发平台（zCAD.AI / zCAD.Online），用 AI 生成可编辑、可仿真的工程设计方案。资金将重点投入细分行业工程知识采集。金额未披露。",
        "source": "投资界",
-       "url": "https://news.pedaily.cn/202611/571899.shtml"
+       "url": "https://news.pedaily.cn/202611/571998.shtml"
       },
       {
-       "date": "2026-11-16",
-       "company": "无界进化",
-       "round": "Pre-A 轮",
-       "amount": "超亿元",
-       "investors": "星连资本、Prosperity7、华盖资本、华控基金、德同资本等联合投资；老股东顺为资本、红杉中国、松禾资本追加",
-       "summary": "AI 虚拟细胞模型，报道称刷新国内该赛道单笔融资纪录；距 6 月数千万元天使轮约五个月。资金用于基础大模型研发与高通量自动化干湿闭环体系扩容。",
-       "source": "投资界",
-       "url": "https://news.pedaily.cn/202611/571905.shtml"
-      },
-      {
-       "date": "2026-11-16",
-       "company": "造物潭",
-       "round": "天使轮",
-       "amount": "数千万元",
-       "investors": "嘉铭浩春领投；国资战略引导基金及智能制造领域产业资本参与",
-       "summary": "上海，电子硬件研发智能体「小潭子」，以自研电子行业大模型与多岗位 AI 数字员工驱动硬件研发。资金用于模型训练迭代、工程对象本体建设及企业级交付。",
-       "source": "投资界",
-       "url": "https://news.pedaily.cn/20261116/143314.shtml"
+       "date": "2026-11-17",
+       "company": "Isomorphic Labs（英国）",
+       "round": "C 轮",
+       "amount": "50 亿美元",
+       "investors": "Greenoaks 与 Sequoia Capital 联合领投；a16z 等新投资者加入；Alphabet 继续大额投入；老股东 Thrive Capital、MGX、GV、CapitalG、淡马锡、英国主权 AI 基金跟投",
+       "summary": "Alphabet 旗下、由 Demis Hassabis 领导的 AI 药物设计公司；资金用于加速自研药物设计引擎 IsoDDE、扩大候选药物管线，并建设 AI 驱动的生物工程基础设施。",
+       "source": "Isomorphic Labs",
+       "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-c-investment-round"
       }
      ]
     },
@@ -4989,40 +4964,41 @@
      "items": [
       {
        "date": "2026-11-17",
-       "company": "智动未来（AutoLife Robotics）",
-       "round": "Pre-A+ 轮",
-       "amount": "亿元级",
-       "investors": "中美绿色基金领投，南曦创投联合领投，老股东海珠城发继续加码",
-       "summary": "广州海珠，具身服务机器人（小智 S3）及可微分粒子世界模型；成立以来第四轮，累计股权融资数亿元。资金用于广州新产线扩产，以及展会、酒店、文旅、零售场景规模化部署。",
-       "source": "凤凰网",
-       "url": "https://sz.ifeng.com/c/8y6LOkoAMqT"
+       "company": "蓝点触控",
+       "round": "D3 轮",
+       "amount": "数亿元",
+       "investors": "洪泰基金、中关村科学城、弘毅投资、浙创投、厦门海投集团、厦门海沧产投、奥普特、新未来、山证投资、曦晨资本、秦创投、陕西国晟、江门金控、君安控股等 14 家机构联合投资",
+       "summary": "北京，机器人力传感器及力控技术；近半年融资额已超 10 亿元。资金用于新一代力传感器研发、海外市场、扩充产能，以及向算法和数据端延伸。",
+       "source": "投资界",
+       "url": "https://news.pedaily.cn/202611/571956.shtml"
       },
       {
-       "date": "2026-11-16",
-       "company": "精一微感",
-       "round": "天使轮及天使+轮",
-       "amount": "累计数千万元",
-       "investors": "海南芯动联科投资等产业方",
-       "summary": "上海，MEMS 六维力/力触觉传感器，面向机器人腕部与指尖；已建自动化产线。资金用于产线扩充、市场推广及力触觉模型开发。",
-       "source": "36氪",
-       "url": "https://www.36kr.com/p/4070932645172105"
-      },
-      {
-       "date": "2026-11-16",
-       "company": "Remedy Robotics（美国）",
-       "round": "B 轮",
-       "amount": "6200 万美元",
-       "investors": "DCVC 领投；新投资者包括 UC Investments、Skip Capital、Hostplus；老股东 Build Collective、Blackbird、Divergent Capital、KdT Ventures 追加",
-       "summary": "旧金山，AI 赋能的心血管/血管内介入手术机器人平台 N1；资金用于与加州大学合作的关键性临床试验、推进神经介入相关 FDA 审批，以及向临床合作网络部署样机。产品仍在研发、尚未获准销售。",
+       "date": "2026-11-17",
+       "company": "Genesis AI（法国/美国）",
+       "round": "A 轮",
+       "amount": "5 亿美元",
+       "investors": "Premji Invest、Khosla Ventures、Eclipse 联合领投；Durable Capital Partners、T. Rowe Price Associates、Bpifrance、HSG、NVIDIA、AMD Ventures、Zoom、Samsung Next、Ericsson 等参与；个人投资者包括 Eric Schmidt、袁征、杨致远、Xavier Niel、Zach Kirkhorn",
+       "summary": "巴黎及加州圣卡洛斯，通用机器人（旗舰机型 Eno），投后估值 35 亿美元。资金用于数据采集与大规模训练、攻关人类水平物理操控、规模化部署，以及扩充团队。",
        "source": "PR Newswire",
-       "url": "https://www.prnewswire.com/news-releases/remedy-robotics-raises-62-million-series-b-to-bring-life-saving-cardiovascular-intervention-to-patients-everywhere-302939871.html"
+       "url": "https://www.prnewswire.com/news-releases/genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-master-human-level-dexterity-in-general-purpose-robots-and-deploy-at-scale-302941249.html"
       }
      ]
     },
     {
      "key": "materials",
      "name": "新材料",
-     "items": []
+     "items": [
+      {
+       "date": "2026-11-17",
+       "company": "博理科技（POLLYPOLYMER）",
+       "round": "B2 轮及 B+ 轮",
+       "amount": "合计超 5 亿元",
+       "investors": "B2 轮由基石资本与老股东金沙江联合资本联合领投，格致资本、天堂硅谷、中时资本、云锦资本、卓璞基金跟投；B+ 轮由经纬创投领投，安耐德资本、天堂硅谷跟投，产业方长盈精密参投",
+       "summary": "江苏，高分子弹性体材料与超高速 3D 打印批量制造，业务向具身智能弹性零部件（RoboFab）拓展。资金用于材料与复合材料研发、产能与总部基地、行业应用及全球交付网络。",
+       "source": "36氪",
+       "url": "https://www.36kr.com/p/4072516740797318"
+      }
+     ]
     },
     {
      "key": "energy",
